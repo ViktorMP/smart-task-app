@@ -1,2 +1,2 @@
 # Smart-Task-App
-App (crud) de tareas hecha con Electronjs. 
+App de escritorio (crud) para agendar tareas hecha con Electronjs. 
