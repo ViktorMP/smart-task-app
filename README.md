@@ -1,3 +1,3 @@
-# Smart-Task-App
-App de escritorio (crud) para agendar tareas a realizar.
+# smart-task-app
+App de escritorio para agendar tareas a realizar.
 Tecnologías usadas: Electronjs y base de datos NOSQL MongoDB. 
